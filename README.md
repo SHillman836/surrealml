@@ -1,4 +1,4 @@
-# SurrealMl
+# SurrealML
 
 This package is for storing machine learning models with meta data in Rust so they can be used on the SurrealDB server.
 
